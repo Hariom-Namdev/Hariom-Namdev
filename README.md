@@ -2,7 +2,7 @@
 
 Data Analyst skilled in Python, SQL, Power BI, ,and Excel. Passionate about transforming raw data into actionable insights through data cleaning, analysis, visualization, and dashboard development. Building data driven projects and continuously learning modern analytics technologies.
 
-## 🌐 Socials
+## 🌐 Socials 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariomnamdev)
 
