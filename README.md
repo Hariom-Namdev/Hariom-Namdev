@@ -27,6 +27,13 @@ Data Analyst skilled in Python, SQL, Power BI, ,and Excel. Passionate about tran
 
 ---
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 ![](https://komarev.com/ghpvc/?username=Hariom-Namdev&label=Profile%20Views&color=0e75b6&style=flat)
 
 ⭐ Always exploring data, building dashboards, and turning insights into impact.
